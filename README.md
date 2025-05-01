@@ -1,1 +1,1 @@
-This is a stab at this [Kaggle competition problem](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). The goal of this repository is not to win the competition , but rather showcase some of my work with regression problems and statistical concepts.
+This is a stab at this [Kaggle competition problem](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). The goal of this repository is not to win the competition, but rather showcase some of my work with regression problems and statistical concepts.
